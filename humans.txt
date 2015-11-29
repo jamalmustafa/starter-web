@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jamal Mustafa -- jason@git.training @awesome.jt
 
 # THANKS
 
