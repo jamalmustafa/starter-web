@@ -1,3 +1,6 @@
-1 Remote:
-2- Commit to local repo:
-3- Add to staging only
+Jamal One
+Other Text
+Jamal Three
+Other Text
+Jamal Five
+Other Text
